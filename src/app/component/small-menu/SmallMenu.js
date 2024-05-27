@@ -1,6 +1,6 @@
 import React from 'react'
 import styles from './smallMenu.module.css'
-const SmallMenu = ({name,desc}) => {
+const SmallMenu = ({ name, desc }) => {
     return (
         <a
             href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template&utm_campaign=create-next-app"
